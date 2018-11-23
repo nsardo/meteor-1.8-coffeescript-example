@@ -8,3 +8,4 @@ It shows basics of the following:
 - Session variables
 - Mongo DB Collections
 - Meteor Methods
+- Tests
