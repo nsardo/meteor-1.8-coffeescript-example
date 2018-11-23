@@ -1,5 +1,9 @@
+###
+@author Nicholas Sardo <gcc.programmer@gmail.com>
+©2018
+###
+
 import { Meteor } from 'meteor/meteor'
-#import { Foo } from '../api/foo' 
 
 Meteor.startup ->
   ###
